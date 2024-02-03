@@ -1,0 +1,44 @@
+{   
+    "common":{
+        "nav":{
+            "shop":"shop",
+            "profile":"profile"
+        },
+        "buttons":{
+            "login":"Login",
+            "register":"Register",
+            "edit_profile":"Edit Profile",
+            "no_account": "Don't have an account ? Sign up",
+            "have_account": "already have an account ? Login"
+        },
+        "messages":{
+            "favorite_add":"Added to favorites.",
+            "favorite_remove":"Removed from favorites.",
+            "enter_data":"Enter your data.",
+            "enter_valid_password":"Enter Valid Password.",
+            "enter_valid_email":"Enter Valid Email."
+        }
+    },
+    "shop":{
+        "title":"products"
+    },
+    "favorites":{
+        "title":"favorites",
+        "empty":"no favorites"
+    },
+    "profile":{
+        "title":"my profile",
+        "settings":"settings",
+        "theme":"dark theme",
+        "email":"E-mail:",
+        "firstName":"First Name:",
+        "lastName":"Last Name:",
+        "user_name":"User Name:",
+        "password":"Password:"
+        },
+    "product_detail":{
+        "shipping_info":"shipping info",
+        "support":"support"
+    }
+
+} 
